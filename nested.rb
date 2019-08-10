@@ -1,3 +1,7 @@
+# programmer_hash
+# don't just re-write the hash with the new value! Use the methods
+
+
 
 def hopper
 	programmer_hash = 
